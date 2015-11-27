@@ -1,0 +1,20 @@
+body{
+	padding: 1em;
+}
+
+header, footer{
+	background-color: #C25B7E;
+	color: #FACD61;
+	padding: 2em;
+	text-align: center;
+}
+aside{
+	background-color: #703870;
+	color: #FACD61;
+	padding: 3em;
+}
+article{
+	background-color: #46315C;
+	color: #FACD61;
+	padding: 2em;
+}
